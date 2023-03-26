@@ -1,2 +1,2 @@
 # newsApp
- We are making a React native beginner news website.
+ We are making a React native beginning card exercise and props.
